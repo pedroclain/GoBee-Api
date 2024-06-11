@@ -1,0 +1,12 @@
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\bin\Debug\net8.0\GoBee.Domain.deps.json
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\bin\Debug\net8.0\GoBee.Domain.dll
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\bin\Debug\net8.0\GoBee.Domain.pdb
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.AssemblyInfoInputs.cache
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.AssemblyInfo.cs
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.sourcelink.json
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.dll
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\refint\GoBee.Domain.dll
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\GoBee.Domain.pdb
+C:\Users\PedroXavier\projetos\iuul\gobeesiness\back-end\GoBee\GoBee.Domain\obj\Debug\net8.0\ref\GoBee.Domain.dll

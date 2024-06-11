@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|solutionrelative:gobee.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.api\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|solutionrelative:gobee.api\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.api\\results\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|solutionrelative:gobee.api\\results\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.api\\gobee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|solutionrelative:gobee.api\\gobee.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD9963F-B489-43EC-97EE-738B008994C3}|GoBee.Api\\GoBee.Api.csproj|solutionrelative:gobee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.infrastructure\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|solutionrelative:gobee.infrastructure\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\shared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\usuarios\\criarusuario\\icriarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\usuarios\\criarusuario\\icriarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\usuarios\\criarusuario\\criarusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\usuarios\\criarusuario\\criarusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\usuarios\\criarusuario\\criarusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\usuarios\\criarusuario\\criarusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.usecases\\usuarios\\criarusuario\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9354D2-0E4F-4C19-9E32-CFB51C86E2B6}|GoBee.UseCases\\GoBee.UseCases.csproj|solutionrelative:gobee.usecases\\usuarios\\criarusuario\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668994EE-F5D5-4649-A620-DD3BC4AC84FF}|GoBee\\GoBee.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668994EE-F5D5-4649-A620-DD3BC4AC84FF}|GoBee\\GoBee.csproj|solutionrelative:gobee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|solutionrelative:gobee.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|solutionrelative:gobee.infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|c:\\users\\pedroxavier\\projetos\\iuul\\gobeesiness\\back-end\\gobee\\gobee.infrastructure\\repositorios\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D5CA23-D7BD-4673-A774-73093447EAD6}|GoBee.Infrastructure\\GoBee.Infrastructure.csproj|solutionrelative:gobee.infrastructure\\repositorios\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Results\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "GoBee.Api\\Results\\ErrorCode.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Results\\ErrorCode.cs",
+              "RelativeToolTip": "GoBee.Api\\Results\\ErrorCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:37:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Results\\ApiResult.cs",
+              "RelativeDocumentMoniker": "GoBee.Api\\Results\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Results\\ApiResult.cs",
+              "RelativeToolTip": "GoBee.Api\\Results\\ApiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:35:45.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoBee.Api",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\GoBee.Api.csproj",
+              "RelativeDocumentMoniker": "GoBee.Api\\GoBee.Api.csproj",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\GoBee.Api.csproj",
+              "RelativeToolTip": "GoBee.Api\\GoBee.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T19:35:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GoBee.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "GoBee.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:27:14.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GoBee.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Api\\Program.cs",
+              "RelativeToolTip": "GoBee.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:25:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\IoC.cs",
+              "RelativeDocumentMoniker": "GoBee.Infrastructure\\IoC.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\IoC.cs",
+              "RelativeToolTip": "GoBee.Infrastructure\\IoC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:22:47.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\IoC.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\IoC.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\IoC.cs",
+              "RelativeToolTip": "GoBee.UseCases\\IoC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:09:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee\\Program.cs",
+              "RelativeDocumentMoniker": "GoBee\\Program.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee\\Program.cs",
+              "RelativeToolTip": "GoBee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:08:06.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CriarUsuarioOutput.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioOutput.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioOutput.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioOutput.cs",
+              "RelativeToolTip": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:03:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CriarUsuarioInput.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioInput.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioInput.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioInput.cs",
+              "RelativeToolTip": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuarioInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:00:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICriarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\ICriarUsuario.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\Usuarios\\CriarUsuario\\ICriarUsuario.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\ICriarUsuario.cs",
+              "RelativeToolTip": "GoBee.UseCases\\Usuarios\\CriarUsuario\\ICriarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:57:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuario.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuario.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuario.cs",
+              "RelativeToolTip": "GoBee.UseCases\\Usuarios\\CriarUsuario\\CriarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:56:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shared.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Shared.cs",
+              "RelativeDocumentMoniker": "GoBee.UseCases\\Shared.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.UseCases\\Shared.cs",
+              "RelativeToolTip": "GoBee.UseCases\\Shared.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:54:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GoBee.Infrastructure\\Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "GoBee.Infrastructure\\Db\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:29:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Repositorios\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "GoBee.Infrastructure\\Repositorios\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Repositorios\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "GoBee.Infrastructure\\Repositorios\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:23:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "GoBee.Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PedroXavier\\projetos\\iuul\\gobeesiness\\back-end\\GoBee\\GoBee.Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "GoBee.Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:21:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
